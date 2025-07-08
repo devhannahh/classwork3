@@ -129,7 +129,7 @@ div.lg-card-readmore{
 div.main-sm-child {
     height: auto;
     width: 33.333%;
-    background-color: blue;
+    /* background-color: blue; */
     padding-right: 15px;
     padding-left: 2px;
 }
