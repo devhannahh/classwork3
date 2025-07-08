@@ -1,0 +1,46 @@
+@media only screen and (max-width: 600px) {
+
+    body {
+        background-color: transparent;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    div.main-lg-child { 
+        margin-bottom: 20px;
+        background-color: transparent;
+    }
+
+    div.main-sm-child {
+        width: 100%;
+        background-color: transparent;
+        margin: auto;
+        
+         padding-right: 0;
+        padding-left: 0;
+
+        /* margin-top: 20px; */
+    }
+
+    div.sm-card {
+        height: auto;
+
+    }
+
+    div.btn-container {
+        /* background-color: red; */
+        width: 100%;
+    }
+
+
+
+    
+
+     
+
+    
+
+ }
