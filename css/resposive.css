@@ -36,11 +36,19 @@
     }
 
 
+ }
 
+ @media only screen and (max-width: 400px){
+
+    div.main-lg-child { 
+        background-color: transparent;
+        width: 100%;
+    }
     
+    div.lg-card {
+        width: 95%;
+        margin: auto;
+    }
 
-     
-
-    
 
  }
